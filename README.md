@@ -17,6 +17,5 @@ A simple web application that allows users to upload images directly from the br
 - **Hosting**: S3 Static Website Hosting
 
 ## 🌐 Live Demo (Optional)
-[[Click here to try it!]]([url](https://image-uplaod-30-04-2025.s3.us-east-1.amazonaws.com/index.html))
+[[[Click here to try it!]]]([url](https://image-uplaod-30-04-2025.s3.us-east-1.amazonaws.com/index.html))([url](https://image-uplaod-30-04-2025.s3.us-east-1.amazonaws.com/index.html))
 
-## 📂 Project Structure
